@@ -13,7 +13,7 @@
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?brainless066=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Brainless](https://github-readme-stats.vercel.app/api/pin/?username=brainless066=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
