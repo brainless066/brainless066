@@ -1,4 +1,6 @@
-<img align=center src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=brainless&fontSize=90&fontAlignY=30" />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=brainless&fontSize=90&fontAlignY=30" />
+</div>
 
 <div align=center><h1>Languages</h1></div>
 
