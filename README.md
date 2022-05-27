@@ -9,6 +9,7 @@
   <a href="https://discordapp.com/users/692592203679268874" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://discordapp.com/users/692592203679268874" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
   <a href="mailto:hyukjoon066@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198993967858/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 </div>
 
 <div align=center><h1>Languages</h1></div>
