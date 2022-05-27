@@ -14,7 +14,8 @@
 
 <hr>
  
-<img src="https://github-readme-stats.vercel.app/api?username=brainless066">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brainless066)
-
+<div align=center> 
+  <img src="https://github-readme-stats.vercel.app/api?username=brainless066">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brainless066">
+</div>
 
