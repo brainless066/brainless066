@@ -6,7 +6,7 @@
 
 <div align=center> 
   <a href="https://www.instagram.com/iilillliliillilillllli/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/692592203679268874" target="_blank"><img src="https://img.shields.io/badge/discordd-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/692592203679268874" target="_blank"><img src="https://img.shields.io/badge/무뇌#4540-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </div>
 
 <div align=center><h1>Languages</h1></div>
